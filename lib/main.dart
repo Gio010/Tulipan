@@ -159,7 +159,7 @@ class _FlorPantallaState extends State<FlorPantalla> {
             child: Column(
               mainAxisSize: MainAxisSize.min,
               children: [
-                const SizedBox(height: 300),
+                const SizedBox(height: 400),
                 Image.asset(
                   'assets/huella.png', // Ruta de la imagen del tulipán
                   width: 150,

@@ -64,7 +64,7 @@ flutter:
     - assets/orqui2.avif
     - assets/huella.png
     - assets/tulipan.gif
-    - assets/musica.mp3
+    
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
